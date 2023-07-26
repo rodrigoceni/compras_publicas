@@ -1,0 +1,6 @@
+git clone https://github.com/your-username/compras_publicas.git
+
+cd compras_publicas
+
+# Create folder(s) and add files as needed
+mkdir folder
